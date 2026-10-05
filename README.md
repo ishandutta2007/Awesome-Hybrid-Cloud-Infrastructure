@@ -58,7 +58,7 @@ The table below summarizes commercial hybrid cloud platforms, ordered by company
 
 ## 🐧 Open-Source GitHub Projects
 
-Explore top open-source projects for building sovereign private clouds, hybrid control planes, container fleets, and edge infrastructure. Ranked by GitHub Stars_Count (descending):
+Explore top open-source projects for building sovereign private clouds, hybrid control planes, container fleets, and edge infrastructure. Ranked by GitHub_Stars_Count (descending):
 
 | Project | GitHub_Stars | Category & Description |
 | :--- | :--- | :--- |
