@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Hybrid-Cloud-Infrastructure?style=flat-square" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Hybrid-Cloud-Infrastructure?style=flat-square" alt="GitHub_Stars" />
   <img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Hybrid-Cloud-Infrastructure?style=flat-square" alt="GitHub forks" />
   <img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Hybrid-Cloud-Infrastructure?style=flat-square" alt="Last Commit" />
   <img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Hybrid-Cloud-Infrastructure?style=flat-square" alt="License" />
@@ -58,9 +58,9 @@ The table below summarizes commercial hybrid cloud platforms, ordered by company
 
 ## 🐧 Open-Source GitHub Projects
 
-Explore top open-source projects for building sovereign private clouds, hybrid control planes, container fleets, and edge infrastructure. Ranked by GitHub star count (descending):
+Explore top open-source projects for building sovereign private clouds, hybrid control planes, container fleets, and edge infrastructure. Ranked by GitHub Stars_Count (descending):
 
-| Project | Stars | Category & Description |
+| Project | GitHub_Stars | Category & Description |
 | :--- | :--- | :--- |
 | **[Rancher](https://github.com/rancher/rancher)** | [![Stars](https://img.shields.io/github/stars/rancher/rancher?style=social&color=white)](https://github.com/rancher/rancher/stargazers) | **Multi-Cluster K8s Management**: Complete container management platform for managing Kubernetes clusters across multi-cloud, hybrid, and edge environments. |
 | **[Cilium](https://github.com/cilium/cilium)** | [![Stars](https://img.shields.io/github/stars/cilium/cilium?style=social&color=white)](https://github.com/cilium/cilium/stargazers) | **eBPF Hybrid Networking & Security**: eBPF-based networking, observability, and security connectivity for hybrid and multi-cloud Kubernetes fleets. |
@@ -141,3 +141,12 @@ If you find this repository valuable for your platform engineering team, cloud a
 <p align="center">
   <b>Made with ❤️ for platform engineers, cloud architects, and open-source advocates.</b>
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Hybrid-Cloud-Infrastructure&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Hybrid-Cloud-Infrastructure_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Hybrid-Cloud-Infrastructure_growth.svg">
+  </picture>
+</a>
